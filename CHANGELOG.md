@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.5.0 - 2026-07-22
 
 - Footer Logo 改用与标题、日期、页码一致的全高度槽位垂直居中，移除固定 `logo-dy`；
   新增对称 Logo 与 72/96/144/288 DPI 底边填充契约测试。
