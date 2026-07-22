@@ -1,10 +1,10 @@
 // 两张内容页只展示最常用的自然流、Points 和原生 figure。
-#import "../globals.typ": asset-path, point, points, runtime, slide
+#import "../globals.typ": asset-path, lead, point, points, runtime, slide
 
 = Problem framing
 
 #slide(title: [Frame the Problem Before the Mechanism])[
-  State the system constraint, then make its consequence explicit.
+  #lead[State the system constraint, then make its consequence explicit.]
 
   #points((
     point([The critical path includes communication.]),
